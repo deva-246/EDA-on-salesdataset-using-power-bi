@@ -1,7 +1,7 @@
 # EDA on sales Dataset using Power bi
 
 ## Exploratory Data Analysis (EDA) 
-It is an approach/philosophy for data analysis that employs a variety of techniques (mostly graphical) to
+It is an approach for data analysis that employs a variety of techniques (mostly graphical) to
 
     maximize insight into a data set;
     
